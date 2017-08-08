@@ -1,0 +1,6 @@
+directories:
+  path1 : "/sysadmins/are/awesome"
+  path2 : "/developers/MustHave/heroes"
+administrator:
+  name : "foo"
+  mail : "foo@mail.com"
